@@ -1,5 +1,11 @@
 # @nextui-org/tabs
 
+## 2.0.38
+
+### Patch Changes
+
+- [#3978](https://github.com/nextui-org/nextui/pull/3978) [`9fe0aa79c`](https://github.com/nextui-org/nextui/commit/9fe0aa79c8d74a29418db6a235db179a5a9242bc) Thanks [@ShrinidhiUpadhyaya](https://github.com/ShrinidhiUpadhyaya)! - revise the inert attribute in `TabPanel` (#3972)
+
 ## 2.0.37
 
 ### Patch Changes
